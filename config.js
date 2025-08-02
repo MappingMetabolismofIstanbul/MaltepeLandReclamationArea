@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Kentsel Boşluğun Üretimi: Maltepe Dolgu Alanı / Production of Urban Void: Maltepe Land Reclamation Area ',
+    title: 'Demir, Çimento ve Toprağın Metabolik Akışı: Maltepe Kıyı Dolgu Alanı / Metabolic Flows of Iron, Cement and Soil: Maltepe Coastal Land Reclamation',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
