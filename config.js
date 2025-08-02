@@ -201,7 +201,7 @@ var config = {
             description: '',
             location: {
                 center: [29.11656809089812,40.95410066392864],
-                zoom: 15,
+                zoom: 16,
                 pitch: 10,
                 bearing: 0,
               
@@ -227,7 +227,7 @@ var config = {
             description: '',
             location: {
                 center: [29.127040798950123,40.94559269709205],
-                zoom: 13,
+                zoom: 16,
                 pitch: 10,
                 bearing: 0,
               
