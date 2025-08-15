@@ -171,7 +171,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/bgDNS4HM/5.png',
+            image: 'https://i.ibb.co/fd0ybchY/5.png',
             description: '',
             location: {
                  center: [29.116217245137562,40.93230441895349],
