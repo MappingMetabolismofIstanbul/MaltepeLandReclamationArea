@@ -19,7 +19,7 @@ var config = {
     title: 'Demir, Çimento ve Toprağın Metabolik Akışı: Maltepe Kıyı Dolgu Alanı / Metabolic Flows of Iron, Cement and Soil: Maltepe Coastal Land Reclamation',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     chapters: [
         {
             id: '0',
@@ -51,7 +51,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/HTrzsyM1/1.png',
+            image: 'https://i.ibb.co/tpjRvqW1/1.png',
             description: '',
             location: {
                center: [29.106880327805428,41.002030942693075],
@@ -114,7 +114,7 @@ var config = {
              image: 'https://i.ibb.co/ZzgckMyM/3.png',
             description: '',
             location: {
-              center: [29.10258457198722,40.98380186861573],
+              center: [29.11656809089812,40.95410066392864],
                 zoom: 15,
                 pitch: 40,
                 bearing: 0
@@ -144,8 +144,8 @@ var config = {
              image: 'https://i.ibb.co/qMQ3ygj8/gifmaltepe.gif',
             description: '1984-2022 yılları arası Maltepe Dolgu Alanı değişimi / Google Earth Timelapse uydu görüntüleri kullanılarak elde edilmiştir.',
             location: {
-                 center: [29.099197275106278,40.97526816459441],
-                zoom: 16,
+                 center: [29.116217245137562,40.93230441895349],
+                zoom: 15,
                 pitch: 40,
                 bearing: 0
             },
@@ -171,10 +171,10 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/fd0ybchY/5.png',
+            image: 'https://i.ibb.co/bgDNS4HM/5.png',
             description: '',
             location: {
-                 center: [29.103560477043484,40.96756584600104],
+                 center: [29.116217245137562,40.93230441895349],
                 zoom: 17,
                 pitch: 40,
                 bearing: 0,
@@ -200,8 +200,8 @@ var config = {
            image: 'https://i.ibb.co/B5pNKwCH/6.png',
             description: '',
             location: {
-                center: [29.11656809089812,40.95410066392864],
-                zoom: 16,
+                center: [29.105411198749145,40.931806463171],
+                zoom: 14,
                 pitch: 10,
                 bearing: 0,
               
@@ -213,7 +213,7 @@ var config = {
                 //curve: 0, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
@@ -226,8 +226,8 @@ var config = {
             image: 'https://i.ibb.co/R8Q9dkC/7.png',
             description: '',
             location: {
-                center: [29.127040798950123,40.94559269709205],
-                zoom: 16,
+                center: [29.116217245137562,40.93230441895349],
+                zoom: 14,
                 pitch: 10,
                 bearing: 0,
               
@@ -252,8 +252,8 @@ var config = {
             image: 'https://i.ibb.co/20XRc2w8/8.png',
             description: '',
             location: {
-                center: [29.123898840315068,40.937679665678395],
-                zoom: 12,
+                center: [29.105411198749145,40.931806463171],
+                zoom: 12.7,
                 pitch: 10,
                 bearing: 0,
               
@@ -265,7 +265,7 @@ var config = {
                 //curve: 0, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
